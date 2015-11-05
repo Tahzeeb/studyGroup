@@ -1,3 +1,5 @@
+#! /bin/bash
+
 #Configure Git (with GitHub Accounts) - only needs to be done once per machine
 git config --global user.name <GitHub UserName>
 git config --global user.email <GitHub Email>

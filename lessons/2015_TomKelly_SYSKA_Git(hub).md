@@ -4,7 +4,8 @@
  - **Research field**: Cancer Genomics and Bioinformatics
  - **Lesson Topic**: Introduction to the Study Group with Git and GitHub
 
-![Introduction to Git according to [https://xkcd.com/]](http://imgs.xkcd.com/comics/git.png)
+![](http://imgs.xkcd.com/comics/git.png)
+Introduction to Git according to [https://xkcd.com/]
 
 This is an introduction to version control with Git and submitting changes to Github repositories. The Example used here is to add a user to the Study Group page.
 
