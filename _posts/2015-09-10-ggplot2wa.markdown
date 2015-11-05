@@ -1,0 +1,10 @@
+---
+title: Introduction to ggplot2 in R
+text: Murray will introduce ggplot2, suitable for R novices.
+location: Leith Room, Staff Club 
+link: https://github.com/smilefreak/studyGroup/issues/2 
+date: 2015-09-10
+startTime: '15:30'
+endTime: '16:30'
+
+---
