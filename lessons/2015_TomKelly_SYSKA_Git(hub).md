@@ -78,4 +78,4 @@ Notice that Git is very powerful and can handle submissions of multiple changes 
 
 To download the latest version of the repository "Fork" the users GitHub repository, as before, and use `git pull origin master` to update your local repository.
 
-Welcome to Git. Welcome to GitHub, please join the discussion on what we can do next [https://github.com/smilefreak/studyGroup/issues]
+Welcome to Git. Welcome to GitHub, please join the discussion on what we can do next: https://github.com/smilefreak/studyGroup/issues
