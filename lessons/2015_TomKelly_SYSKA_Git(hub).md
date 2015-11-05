@@ -10,7 +10,7 @@ Introduction to Git according to https://xkcd.com/
 
 This is an introduction to version control with Git and submitting changes to Github repositories. The Example used here is to add a user to the Study Group page.
 
-First make sure participants have installed Git according to the Software Carpentry instructions: [http://software-carpentry.org/workshops/setup.html]
+First make sure participants have installed Git according to the Software Carpentry instructions: http://software-carpentry.org/workshops/setup.html
 
 Configure Git (with GitHub Accounts) - only needs to be done once per machine:
 
@@ -51,6 +51,7 @@ Add a new member using the template on a new line:
 ```
 Make a new "snapshot" of your changes on your local repository:
 ```bash
+cd studyGroup
 git add _data/members.yml
 git commit -m 'added me' _data/members.yml
 ```
