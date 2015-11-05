@@ -6,7 +6,7 @@
 
 ![](http://imgs.xkcd.com/comics/git.png)
 
-Introduction to Git according to [https://xkcd.com/]
+Introduction to Git according to https://xkcd.com/
 
 This is an introduction to version control with Git and submitting changes to Github repositories. The Example used here is to add a user to the Study Group page.
 
