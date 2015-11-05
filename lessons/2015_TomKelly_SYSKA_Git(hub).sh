@@ -12,6 +12,7 @@ git clone https://github.com/<your username>/studyGroup.git
 nano studyGroup/_data/members.yml #ctrl O to save, ctrl X to exit
 notepad studyGroup/_data/members.yml #ctrl S to save, alt F4 to exit
 #make a new "snapshot of your change"
+cd studyGroup
 git add _data/members.yml
 git commit -m 'added me' _data/members.yml 
 #Use these to check is changes commited to Git
