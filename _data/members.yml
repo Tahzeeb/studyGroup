@@ -22,6 +22,13 @@
     - Genomics
     - Human Health and Disease
 
+- name: Rebekah Wrigley
+  affiliation: University of Otago, Department of Biochemistry
+  github: RebekahWrigley
+  interests:
+    - Human health and disease
+    - Genomics
+
 - name: OrangeDress Girl
   affiliation: Sea of Writing, University of Otago
   github: geeketics
@@ -35,8 +42,7 @@
   interests: 
     - exploring 
     - construction
-
-    
+   
 - name: Humaira Rasheed
   affiliation:University of Otago
   github: Humairarasheed
@@ -44,6 +50,3 @@
     - Lipids/Lipoproteins
     - Mechanistic Biology
     - Public Health
-    - Stem Cells Biology
-
-
