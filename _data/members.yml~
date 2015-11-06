@@ -10,9 +10,9 @@
   affiliation: University of Otago, Department of Biochemistry
   github: TomKellyGenetics
   interests:
-    - Programming
+    - Applied Mathematics
     - Cancer Genomics
-    - Evolutionary Biology
+    - Evolution
 
 - name: Murray Cadzow
   affiliation: University of Otago, Department of Biochemistry
@@ -22,12 +22,54 @@
     - Genomics
     - Human Health and Disease
 
-- name: Nick
-  affiliation: The Dark Side
-  github: methylnick
+- name: Rebekah Wrigley
+  affiliation: University of Otago, Department of Biochemistry
+  github: RebekahWrigley
   interests:
-    - Epigenetics
-    - Cancer Genomics
-    - Community Building
+    - Human health and disease
+    - Genomics
 
-# I made a change: Name
+- name: OrangeDress Girl
+  affiliation: Sea of Writing, University of Otago
+  github: geeketics
+  interests:
+   - Staying Afloat
+   - Fighting The Seal Of Approval
+
+- name: Malaria Girl
+  affiliation: Forest of Citations, University of Otago
+  github: anna-gosling
+  interests: 
+    - exploring 
+    - construction
+   
+- name: Humaira Rasheed
+  affiliation: University of Otago
+  github: Humairarasheed
+  interests: 
+    - Lipids/Lipoproteins
+    - Mechanistic Biology
+    - Public Health
+
+- name: Tyler McInnes
+  affiliation: Cancer Genetics Laboratory, Biochemistry department of Otago.
+  github: mcity599
+  interests:
+    - Epigenetics / DNA methylation
+    - Cancer (Colorectal primarily) Bioinformatics
+    - Indie rock music
+
+- name: Joseph Saunderson
+  affiliation: University of Otago, Department of Computer Science
+  github: xeonz
+  interests:
+    - Programming
+    - NFC/RFID Technologies
+    - Long walks on the beach
+
+- name: Van
+  affiliation: University of Otago, Department of Biochemistry
+  github: caocloud
+  interests:
+    - Genetics
+
