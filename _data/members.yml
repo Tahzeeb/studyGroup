@@ -10,9 +10,9 @@
   affiliation: University of Otago, Department of Biochemistry
   github: TomKellyGenetics
   interests:
-    - Programming
+    - Applied Mathematics
     - Cancer Genomics
-    - Evolutionary Biology
+    - Evolution
 
 - name: Murray Cadzow
   affiliation: University of Otago, Department of Biochemistry
@@ -35,6 +35,7 @@
   interests: 
     - exploring 
     - construction
+
     
 - name: Humaira Rasheed
   affiliation:University of Otago
@@ -44,3 +45,5 @@
     - Mechanistic Biology
     - Public Health
     - Stem Cells Biology
+
+

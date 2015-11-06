@@ -1,0 +1,33 @@
+- name: James Boocock
+  affiliation: University of Otago, Department of Biochemistry
+  github: smilefreak
+  interests:
+    - Programming
+    - Genomics
+    - Open Science
+    
+- name: Tom Kelly
+  affiliation: University of Otago, Department of Biochemistry
+  github: TomKellyGenetics
+  interests:
+    - Programming
+    - Cancer Genomics
+    - Evolutionary Biology
+
+- name: Murray Cadzow
+  affiliation: University of Otago, Department of Biochemistry
+  github: murraycadzow
+  interests:
+    - Programming
+    - Genomics
+    - Human Health and Disease
+
+- name: Nick
+  affiliation: The Dark Side
+  github: methylnick
+  interests:
+    - Epigenetics
+    - Cancer Genomics
+    - Community Building
+
+# I made a change: Name
