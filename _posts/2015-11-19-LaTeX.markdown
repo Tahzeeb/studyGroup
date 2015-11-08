@@ -1,0 +1,11 @@
+---
+title: Introduction to LaTeX
+text: Learn how to create documents using LaTeX
+location: Billiard Room, Staff Club
+link: https://github.com/smilefreak/studyGroup/issues/42 
+date: 2015-11-19
+startTime: '15:30'
+endTime: '16:30'
+
+---
+
