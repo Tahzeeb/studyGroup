@@ -1,4 +1,3 @@
-
 - name: James Boocock
   affiliation: University of Otago, Department of Biochemistry
   github: smilefreak
@@ -6,7 +5,7 @@
     - Programming
     - Genomics
     - Open Science
-
+    
 - name: Tom Kelly
   affiliation: University of Otago, Department of Biochemistry
   github: TomKellyGenetics
@@ -40,40 +39,24 @@
 - name: Malaria Girl
   affiliation: Forest of Citations, University of Otago
   github: anna-gosling
-  interests:
-    - exploring
+  interests: 
+    - exploring 
     - construction
-
+   
 - name: Humaira Rasheed
   affiliation: University of Otago
   github: Humairarasheed
-  interests:
+  interests: 
     - Lipids/Lipoproteins
     - Mechanistic Biology
     - Public Health
-    - Stem Cells Biology
-
-- name: Van
-  affiliation: University of Otago, Department of Biochemistry
-  github: caucloud
-  interests:
-    - Genetics
-
-- name: Rebekah Wrigley
-  affiliation: University of Otago, Department of Biochemistry
-  github: RebekahWrigley
-  interests:
-    - Human health and disease
-    - Genomics
 
 - name: Tyler McInnes
   affiliation: Cancer Genetics Laboratory, Biochemistry department of Otago.
   github: mcity599
   interests:
-    - Epigenetics
-    - DNA methylation
-    - Cancer (Colorectal primarily)
-    - Bioinformatics
+    - Epigenetics / DNA methylation
+    - Cancer (Colorectal primarily) Bioinformatics
     - Indie rock music
 
 - name: Joseph Saunderson
@@ -84,11 +67,9 @@
     - NFC/RFID Technologies
     - Long walks on the beach
 
-- name: Amara Shaukat
-  affiliation: Department of Biochemistry, University of Otago
-  github: Amara-Shaukat
+- name: Van
+  affiliation: University of Otago, Department of Biochemistry
+  github: caocloud
   interests:
-    - Health and Disease
-    - Genomics
-    - Bioinformatics
+    - Genetics
 
