@@ -2,7 +2,7 @@
 title: Kickoff 2016
 text: The first meeting for 2016 where we'll be planning for year including future times and locations.
 location: Rm 231 Dept of Biochemistry
-link: https://github.com/smilefreak/studyGroup/issues/50 
+link: https://github.com/otagostudygroup/studyGroup/issues/1 
 date: 2016-02-18
 startTime: '15:30'
 endTime: '16:30'
