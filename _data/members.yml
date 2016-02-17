@@ -1,6 +1,94 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+
+- name: James Boocock
+  affiliation: University of Otago, Department of Biochemistry
+  github: smilefreak
   interests:
     - Programming
+    - Genomics
     - Open Science
+
+- name: Tom Kelly
+  affiliation: University of Otago, Department of Biochemistry
+  github: TomKellyGenetics
+  interests:
+    - Applied Mathematics
+    - Cancer Genomics
+    - Evolution
+
+- name: Murray Cadzow
+  affiliation: University of Otago, Department of Biochemistry
+  github: murraycadzow
+  interests:
+    - Programming
+    - Genomics
+    - Human Health and Disease
+
+- name: Rebekah Wrigley
+  affiliation: University of Otago, Department of Biochemistry
+  github: RebekahWrigley
+  interests:
+    - Human health and disease
+    - Genomics
+
+- name: OrangeDress Girl
+  affiliation: Sea of Writing, University of Otago
+  github: geeketics
+  interests:
+   - Staying Afloat
+   - Fighting The Seal Of Approval
+
+- name: Malaria Girl
+  affiliation: Forest of Citations, University of Otago
+  github: anna-gosling
+  interests:
+    - exploring
+    - construction
+
+- name: Humaira Rasheed
+  affiliation: University of Otago
+  github: Humairarasheed
+  interests:
+    - Lipids/Lipoproteins
+    - Mechanistic Biology
+    - Public Health
+    - Stem Cells Biology
+
+- name: Van
+  affiliation: University of Otago, Department of Biochemistry
+  github: caucloud
+  interests:
+    - Genetics
+
+- name: Tyler McInnes
+  affiliation: Cancer Genetics Laboratory, Biochemistry department of Otago.
+  github: mcity599
+  interests:
+    - Epigenetics
+    - DNA methylation
+    - Cancer (Colorectal primarily)
+    - Bioinformatics
+    - Indie rock music
+
+- name: Joseph Saunderson
+  affiliation: University of Otago, Department of Computer Science
+  github: xeonz
+  interests:
+    - Programming
+    - NFC/RFID Technologies
+    - Long walks on the beach
+
+- name: Amara Shaukat
+  affiliation: Department of Biochemistry, University of Otago
+  github: Amara-Shaukat
+  interests:
+    - Health and Disease
+    - Genomics
+    - Bioinformatics
+
+- name: Tahzeeb Fatima
+  affiliation: Department of Biochemistry, University of Otago
+  github: Tahzeeb-Fatima
+  interests:
+    - Health and Disease
+    - Genomics
+    - Bioinformatics
